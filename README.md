@@ -1,2 +1,2 @@
 # odesolve
-Using Numerical Methods (Euler and Runge Kutta) to solve Ordinary Differential Equations
+Using Numerical Methods (Euler and Runge Kutta) to find approximations for Ordinary Differential Equations and plot the generated solutions.

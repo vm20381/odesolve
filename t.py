@@ -1,9 +1,10 @@
 from odesolve import rk4
 
+
 def f(x,t):
 	return x
 
-#Initial conditions
+#Initial conditions for rk4 method
 t0 = 1
 x0 = 1
 h = 0.5
